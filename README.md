@@ -9,6 +9,8 @@
 它不只总结内容，还会用深入浅出的微课和必要的 ASCII/SVG 图示讲清知识点，逐题检查理解，针对你的回答给反馈，并检查你能不能在真实场景中独立使用。
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-4C7BBE.svg)](./LICENSE)
+[![Skill](https://img.shields.io/badge/AI%20Agent-Skill-orange.svg)](./SKILL.md)
+[![OKF BundleDex](https://bundledex.net/static-badge.svg)](https://bundledex.net)
 
 [English](./README.en.md) · [安装说明](./docs/install.md) · [更新记录](./CHANGELOG.md)
 
