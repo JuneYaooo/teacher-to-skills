@@ -157,6 +157,8 @@ Lineage 会根据材料现状选择合适的处理方式。已有文字稿或整
 - [rfeng1016](https://github.com/rfeng1016) — 对渐进知识组织方向的建议。
 - [LINUX DO](https://linux.do/) — 中文开发者社区的讨论与反馈。
 
+[![Listed on BundleDex](https://bundledex.net/badge.svg)](https://bundledex.net) — Discovered via [BundleDex](https://bundledex.net), a directory of OKF bundles.
+
 ## License
 
 本项目采用 [Apache License 2.0](./LICENSE)。
